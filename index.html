@@ -39,7 +39,7 @@
        <p>Верстка на HTML и CSS <br>Разработка сайтов под ключ</p>
      </div>
     </div>
-    <a class="main-down" href="#portfolio"><i class="icon-down"></i></a>
+    <a class="main-down slowly" href="#portfolio"><i class="icon-down"></i></a>
    </div>
   
   <div class="portfolio" id="portfolio">
@@ -122,7 +122,7 @@
       $(document).ready(function() {
 
         //навигация - плавный скроллинг к якорю
-        $(".slowly").on("click",function(event){
+        $(".slowly").on("click", function (event) {
           //отменяем стандартную обработку нажатия по ссылке
           event.preventDefault();
           //забираем идентификатор бока с атрибута href
