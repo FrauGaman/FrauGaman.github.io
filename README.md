@@ -1,2 +1,2 @@
-# FrauGaman.github.io
+# GamanFirstSite.github.io
 Мой первый опубликованный сайт
