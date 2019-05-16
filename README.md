@@ -1,2 +1,2 @@
 # FrauGaman.github.io
-Мой первый опубликованный сайт, июль 2017
+First expirience, july 2017
