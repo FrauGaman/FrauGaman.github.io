@@ -1,2 +1,2 @@
-# FrauGaman.github.io
+# GamanFirstSite.github.io
 First expirience, july 2017
